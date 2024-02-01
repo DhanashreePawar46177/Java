@@ -10,7 +10,8 @@ public class Basic_Array_Program {
 		//Read Array Elements
 		for(int i = 0; i < a.length; i++) {
 			System.out.println(a[i]);
-		}
+		}
+
 		//Update Array Element
 		a[3] = 50;
 		
